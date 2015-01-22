@@ -4492,7 +4492,7 @@
       }
     },
     "xtuple-server-sys-webmin": {
-      "version": "0.9.1",
+      "version": "0.9.2",
       "dependencies": {
         "cp": {
           "version": "0.1.1",
