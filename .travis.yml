@@ -9,8 +9,6 @@ env:
 
 before_install:
   - wget https://raw.githubusercontent.com/xtuple/xtuple-server-core/master/bootstrap.sh -qO- | sudo bash
-  - node --version
-  - n 0.11.13
 
 install:
   - npm install
