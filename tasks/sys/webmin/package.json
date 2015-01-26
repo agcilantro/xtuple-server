@@ -45,6 +45,6 @@
     "globalDependencies"
   ],
   "engines": {
-    "node": "^0.11.13"
+    "node": "0.11.13"
   }
 }
