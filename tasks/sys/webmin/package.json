@@ -1,6 +1,6 @@
 {
   "name": "xtuple-server-sys-webmin",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "xTuple Server Task [sys.webmin]: set up webmin and integrate it with the xTuple Server",
   "main": "index.js",
   "scripts": {
@@ -45,6 +45,6 @@
     "globalDependencies"
   ],
   "engines": {
-    "node": "^0.11.13"
+    "node": "0.11.13"
   }
 }
