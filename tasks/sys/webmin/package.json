@@ -1,6 +1,6 @@
 {
   "name": "xtuple-server-sys-webmin",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "xTuple Server Task [sys.webmin]: set up webmin and integrate it with the xTuple Server",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xtuple/xtuple-server-commercial"
+    "url": "https://github.com/xtuple/xtuple-server"
   },
   "author": "xTuple",
   "bugs": {
-    "url": "https://github.com/xtuple/xtuple-server-commercial/issues"
+    "url": "https://github.com/xtuple/xtuple-server/issues"
   },
   "homepage": "https://github.com/xtuple/xtuple-server",
   "dependencies": {
