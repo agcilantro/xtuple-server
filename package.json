@@ -1,6 +1,6 @@
 {
   "name": "xtuple-server",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "xTuple Server Commercial Package",
   "dependencies": {
     "cp": "^0.1.1",
