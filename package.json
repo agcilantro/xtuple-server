@@ -1,6 +1,6 @@
 {
   "name": "xtuple-server",
-  "version": "1.2.1",
+  "version": "1.2.0",
   "description": "xTuple Server Commercial Package",
   "dependencies": {
     "cp": "^0.1.1",
@@ -12,16 +12,7 @@
     "pgrep": "0.0.5",
     "requireindex": "^1.1.0",
     "rimraf": "^2.2.8",
-    "xtuple-server-lib": "^1.0.0",
-    "xtuple-server-sys-cups": "^0.9.0",
-    "xtuple-server-sys-paths": "^0.9.2",
-    "xtuple-server-sys-policy": "^0.9.0",
-    "xtuple-server-sys-service": "^0.9.4",
-    "xtuple-server-sys-ssh": "^0.9.0",
-    "xtuple-server-sys-webmin": "^0.9.1",
-    "xtuple-server-sys-xvfb": "^0.0.1",
-    "xtuple-server-pg-snapshotmgr": "^0.9.0",
-    "xtuple-server-pg-tuner": "^0.9.1"
+    "xtuple-server-lib": "^1.0.0"
   },
   "bundledDependencies": [
     "cp",
